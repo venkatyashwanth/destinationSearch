@@ -1,0 +1,31 @@
+.appBackground{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.destinationBackground{
+    width: 80%;
+}
+.searchBoxContainter{
+    display: flex;
+    align-items: center;
+    background-color: #f1f5f9;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.searchBox{
+    border: none;
+    outline-style: none;
+    background-color: #f1f5f9;
+}
+.listItems{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,10 @@
+.imageDim{
+    width: 250px;
+}
+.cardDetails{
+    margin-top: 20px;
+    padding: 10px;
+}
+.placeName{
+    font-size: 24px;
+}
